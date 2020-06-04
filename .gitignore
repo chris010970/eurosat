@@ -1,7 +1,6 @@
 # data
 *.jpg
 *.tif
-*.png
 *.csv
 *.h5
 *.7z
